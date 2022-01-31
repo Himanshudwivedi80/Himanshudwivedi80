@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himanshudwivedi80
-- 👀 I’m interested in Python amd new technologys.
+- 👀 I’m interested in Python and new technologys.
 - 🌱 I’m currently learning java and python.
 - 📫 Mail me himanshudwivedi578@gmail.com
 
